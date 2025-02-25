@@ -9,8 +9,8 @@ A simple installer for essential IT applications on Windows.
 
 ## 📥 Installation  
 1. Download the latest release from the [Releases](https://github.com/chandan-ksolves/Apps-Installer-IT/releases) page.  
-2. Extract the downloaded files.  
-3. Run the installer script or setup files.  
+2. Install it with the required configuration.  
+3. Run it with MDM as per your need.  
 
 ## 📜 Included Applications  
 - CrowdStrike 
