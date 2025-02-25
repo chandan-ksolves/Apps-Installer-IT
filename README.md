@@ -8,7 +8,7 @@ A simple installer for essential IT applications on Windows.
 - Fast and efficient deployment  
 
 ## 📥 Installation  
-1. Download the latest release from the [Releases](https://github.com/Ychandan-ksolves/Apps-Installer-IT/releases) page.  
+1. Download the latest release from the [Releases](https://github.com/chandan-ksolves/Apps-Installer-IT/releases) page.  
 2. Extract the downloaded files.  
 3. Run the installer script or setup files.  
 
