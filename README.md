@@ -1,4 +1,4 @@
-# Apps-Installer-IT KSOLVES
+# Apps-Installer-IT
 
 A simple installer for essential IT applications on Windows.
 
